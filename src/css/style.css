@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-    max-width: 900px;
+    width: 900px;
     height: 415px;
     display: grid;
     justify-self: center;
